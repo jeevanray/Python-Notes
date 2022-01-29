@@ -1,3 +1,3 @@
 # Python-Notes
 
-All Python basics Concepts Notebooks
+All Python basic Concepts Notebooks
